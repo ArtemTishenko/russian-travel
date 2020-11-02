@@ -1,0 +1,12 @@
+.intro{
+  display: flex;
+
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 0;
+  color: #ffffff;
+  max-width: 1280px;
+
+}
