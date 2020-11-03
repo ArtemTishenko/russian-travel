@@ -2,11 +2,7 @@
   max-width: 1280px;
   min-height: 740px;
   width:1184px;
-  margin:100px auto 90px auto;
-
-
-
-
+  margin:39px auto 97px auto;
 }
 .cover__overlay{
   display: flex;
@@ -17,7 +13,7 @@
   width: 100%;
   max-width: 1184px;
   min-height: 740px;
-  margin: 43px auto 0px;
+  margin: 0 auto 0px;
   background-image: url(./__background/__background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
