@@ -1,0 +1,6 @@
+.photo-grid__item{
+  padding: 0;
+  margin: -5px;
+
+  box-sizing: border-box;
+}
