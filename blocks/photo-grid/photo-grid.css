@@ -20,6 +20,7 @@
   grid-template-columns: repeat(3, 29.296875%);
   grid-template-rows: repeat(4, auto);
   gap: 14px;
+
 }
 }
 
@@ -29,14 +30,16 @@
     grid-template-columns: repeat(2, 45.83%);
     grid-template-rows: repeat(6, auto);
     gap: 16px;
+    padding: 88px 0 0 0;
   }
   }
 
   @media screen and (max-width: 320px) {
     .photo-grid{
       max-width: 320px;
-      grid-template-columns: repeat(1, 90%);
-      grid-template-rows: repeat(12, auto);
+      grid-template-columns: repeat(1,288px);
+      grid-template-rows: repeat(12, 216px);
       gap: 12px;
+      padding: 67px 0 0 0;
     }
     }

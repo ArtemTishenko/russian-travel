@@ -8,6 +8,20 @@
   max-width: 690px;
 }
 
-.intro__list-item{
-  max-width: 690px;
+@media screen and (max-width:768px){
+  .intro__list{
+    max-width: 720px;
+    width: 100%;
+    margin: 33px 0 0 0px;
+  }
+}
+
+@media screen and (max-width:320px){
+  .intro__list{
+    max-width: 288px;
+    width: 100%;
+    margin: 35px 0 0 0px;
+    font-size: 12px;
+    line-height: 18px;
+  }
 }
