@@ -1,4 +1,5 @@
 .header__lang-link_active{
   text-decoration: underline;
   color: white;
+  padding-right: 16px;
 }
