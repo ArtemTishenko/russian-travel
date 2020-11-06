@@ -1,6 +1,7 @@
 .intro__list-item{
   max-width: 690px;
   font-weight: 700;
+  font-family: 'Inter-bold', "Arial", sans-serif;
 }
 
 @media screen and (max-width:768px){
