@@ -1,0 +1,14 @@
+.header__lang-link{
+color: #FFFFFF;
+text-decoration: none;
+cursor: pointer;
+
+margin-right: 0;
+
+}
+
+
+.header__lang-link:first-child{
+  padding-right: 16px;
+}
+

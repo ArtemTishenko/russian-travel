@@ -1,7 +1,6 @@
 .intro__title {
-  width: 690px;
-  margin: 0 0 40px 0
-  ;
+  max-width: 690px;
+  margin: 0 0 40px 0;
   font-size: 54px; /*? 4.218vw - 1280px*/
   font-weight: 900;
   line-height: 58px;/*? 4.53125vw - 1280px*/
@@ -23,3 +22,4 @@
     margin: 0 0 0 0;
   }
 }
+

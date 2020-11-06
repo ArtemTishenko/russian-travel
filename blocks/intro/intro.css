@@ -1,16 +1,19 @@
 .intro{
   display: flex;
-
-
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
   margin: 0 auto 0;
   color: #ffffff;
   max-width: 1280px;
+  width: 100%;
 
 }
 
+@media screen and (max-width:768px){
+  .intro{
+    max-width: 720px;
+    width: 100%;
+  }
+}
 @media screen and (max-width:320px){
   .intro{
     max-width: 320px;
@@ -19,31 +22,6 @@
   }
 }
 
-.intro__content{
-  max-width: 690px;
-  height: 429px; /*! проверить на данном разрешении? можно ли удалить*/
-  margin: 92px 442px 0 148px;
-}
 
-@media screen and (max-width: 1024px) {
-  .intro__content {
-    margin: 92px 442px 0 21.875vw; /*92*/
-  }
-}
-@media screen and (max-width:768px){
-  .intro__content{
-    max-width: 720px;
-    width: 100%;
-    margin: 90px auto 0 auto;
-  }
-}
-@media screen and (max-width:320px){
-  .intro__content{
-    max-width: 320px;
-    width: 100%;
-    height: auto; /*! Если можно удалить предыдущий коммент*/
-    margin: 67px auto 0 16px;
-  }
-}
 
 
