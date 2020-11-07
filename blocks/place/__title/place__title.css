@@ -1,11 +1,12 @@
 .place__title{
-  font-weight: 900;
+
   font-size: 72px;
   line-height: 76px;
   justify-content: flex-end;
   margin: 0;
   padding: 0;
-  font-family: 'Inter-bold', "Arial", sans-serif;
+  font-family: 'Inter-Black', "Arial", sans-serif;
+  font-weight: 900;
 
  }
  @media screen and (max-width:1024px){

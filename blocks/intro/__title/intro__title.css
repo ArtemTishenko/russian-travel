@@ -2,9 +2,9 @@
   max-width: 690px;
   margin: 0 0 40px 0;
   font-size: 54px;
-  font-weight: 900;
   line-height: 58px;
-  font-family: 'Inter-bold', "Arial", sans-serif;
+  font-family: 'Inter-Black', "Arial", sans-serif;
+  font-weight: 900;
 }
 @media screen and (max-width:768px){
   .intro__title{
