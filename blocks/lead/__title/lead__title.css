@@ -26,11 +26,11 @@
 
 @media screen and (max-width: 320px) {
   .lead__title{
-    width:288px;
+    max-width: 288px;
     height: 88px;
     margin: 48px auto 16px;
-    font-size: 40px;
+    font-size: 12.5vw;
     line-height: 44px;
-  }
 }
 
+}

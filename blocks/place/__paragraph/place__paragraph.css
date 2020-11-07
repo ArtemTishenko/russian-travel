@@ -13,12 +13,20 @@
 
 @media screen and (max-width:768px){
   .place__paragraph{
-    
-    
     font-size: 16px;
     line-height: 163%;
-    margin: 0px 0 25px 0px;
+    margin: 0px 0 25px 8px;
   }
+  .place__paragraph:last-child {
+    margin: 0px 0 0px 3px;
+  }
+}
 
+@media screen and (max-width: 320px){
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 163%;
+    margin: 0px 0 38px 8px;
+}
 }
 
