@@ -18,7 +18,7 @@
     margin: 0px 0 25px 8px;
   }
   .place__paragraph:last-child {
-    margin: 0px 0 0px 3px;
+    padding: 2px 0px 0px 0px;
   }
 }
 
@@ -26,7 +26,11 @@
   .place__paragraph {
     font-size: 16px;
     line-height: 163%;
-    margin: 0px 0 38px 8px;
-}
-}
 
+    padding: 14px 8px 0px 8px;
+
+  }
+  .place__paragraph:last-child{
+    padding: 2px 3px 0px 12px;
+  }
+}

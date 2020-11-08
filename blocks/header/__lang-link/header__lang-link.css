@@ -1,12 +1,15 @@
 .header__lang-link{
-color: #FFFFFF;
-text-decoration: none;
-cursor: pointer;
-
-margin-right: 0;
+  color: #FFFFFF;
+  text-decoration: none;
+  cursor: pointer;
+  margin-right: 0;
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
 
 }
-
+.header__lang-link:hover{
+  opacity: 0.6;
+}
 
 
 

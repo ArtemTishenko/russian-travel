@@ -2,8 +2,8 @@
 .photo-grid {
   max-width: 1280px;
   display: grid;
-  grid-template-columns: repeat(4, 22.1875%);
-  grid-template-rows: repeat(3, auto);
+  grid-template-columns: repeat(4, 22.575%);
+  grid-template-rows: repeat(3, 1fr);
   justify-content: center;
 
   gap: 16px;
@@ -17,8 +17,8 @@
 @media screen and (max-width: 1024px) {
 .photo-grid{
   max-width: 1024px;
-  grid-template-columns: repeat(3, 29.296875%);
-  grid-template-rows: repeat(4, auto);
+  grid-template-columns: repeat(3, 29.96875%);
+  grid-template-rows: repeat(4, 21.97265625vw);
   gap: 14px;
 
 }
@@ -27,8 +27,8 @@
 @media screen and (max-width: 768px) {
   .photo-grid{
     max-width: 768px;
-    grid-template-columns: repeat(2, 45.83%);
-    grid-template-rows: repeat(6, auto);
+    grid-template-columns: repeat(2, 46.83%);
+    grid-template-rows: repeat(6, 34.375vw);
     gap: 16px;
     padding: 88px 0 0 0;
   }
@@ -38,8 +38,8 @@
     .photo-grid{
       max-width: 320px;
       grid-template-columns: repeat(1,90%);
-      grid-template-rows: repeat(12, 216px);
+      grid-template-rows: repeat(12, 67.5vw);
       gap: 12px;
-      padding: 67px 0 0 0;
+      padding: 62px 0 0 0;
     }
     }
