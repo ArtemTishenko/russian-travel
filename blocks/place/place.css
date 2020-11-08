@@ -16,7 +16,7 @@
 
   @media screen and (max-width: 768px){
     .place{
-      grid-template-columns: 44.27vw 45.83vw;
+      grid-template-columns: 44.27vw 45.83%;
     }
 
 }
