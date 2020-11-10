@@ -1,0 +1,4 @@
+.video__item-bg{
+    background-image: url(../__item-bg/kamchatka.jpg);
+   z-index: 2;
+}

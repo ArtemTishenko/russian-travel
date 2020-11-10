@@ -1,0 +1,10 @@
+.video__item{
+    
+    max-width: 45.546875vw;
+    width: 100%;
+    min-height:25.234375vw ;
+    height: 100%;
+    background-color: teal;
+    position: relative;
+    border-radius: 1px;
+}
