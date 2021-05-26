@@ -6,11 +6,11 @@ https://artemtishenko.github.io/russian-travel/
 * Макет из Figma был представлен четыремя макетами разной ширины (320px 768px 1024px 1280px)
 
 ## Используемые технологии
-HTML
-CSS
-Flexbox
-Grid
-Адаптивная верстка
+* HTML
+* CSS
+* Flexbox
+* Grid
+* Адаптивная верстка
 
 
 
