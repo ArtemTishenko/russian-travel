@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-(https://artemtishenko.github.io/russian-travel/)
+https://artemtishenko.github.io/russian-travel/
 
 ### Описание проекта
 * Данный проект представляет полученный навыки и знания по адаптивной верстке
